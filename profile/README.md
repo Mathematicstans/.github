@@ -16,3 +16,4 @@ We are online as for now, but as we reach 100 volunteers, we start taking offlin
 We are open for Mathematics enthusiasts who want to change the perspective that "Mathematics is the most difficult subject".<br/>
 
 ### Let's Make India a future Mathematics Hub for the world
+### Mark initial date: 25th June 2022
